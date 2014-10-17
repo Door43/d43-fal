@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fal:home|Door43 (fal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fal|d43-fal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fal/archive/master.zip|d43-fal.zip]]
+
+**Recent Changes**
+{{changes>ns = fal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fal|Ethnologue data]]
+
